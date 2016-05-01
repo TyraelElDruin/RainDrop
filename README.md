@@ -2,7 +2,7 @@
 
 ![RainDrop](https://github.com/DarkTussin/RainDrop/blob/master/Raindrop.png?raw=true)
 
-A youtube-dl wrapper - was originally a standalone program, but youtube-dl did so much more I ended up just wrapping it.
+A youtube-dl wrapper - RainDrop was originally a standalone program, but youtube-dl did so much more I ended up just wrapping it.
 
 RainDrop is a simple Youtube/Soundcloud Audio Downloader written in C# by DarkTussin
 
