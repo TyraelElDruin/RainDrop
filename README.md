@@ -29,9 +29,4 @@ To Cancel all Downloads simply close the main form.
 
 (If songs are downloading, it will abort them - click again to close all the way).
 
-
-All songs are downloaded with the highest quality level available.
-
 Songs with HQ Resolutions will typically contain higher quality audio.
-
-All songs that are downloaded will be automatically downloaded in the highest quality audio format available.
