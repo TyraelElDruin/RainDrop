@@ -2,7 +2,9 @@
 A youtube-dl wrapper - was originally a standalone program, but youtube-dl did so much more I ended up just wrapping it.
 
 RainDrop is a simple Youtube/Soundcloud Audio Downloader written in C# by DarkTussin
+
 This version wraps Youtube-DL providing additional functionality.
+
 To Use: 
 
 1. Select a "Bucket" (Folder) to save the "RainDrops" (Audio Files) to.
