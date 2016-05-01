@@ -17,12 +17,18 @@ To Use:
 3. Click "Make it Rain" (Download)  to start downloading the files.
 
 (Note: If a playlist is detected, it will automatically pull the links)
+
 Raindrops that "Failed to Condense" (Failed to Download) will "Evaporate" (Close)
 
 To Cancel a Download simply close the associated RainDrop.
+
 To Cancel all Downloads simply close the main form.
+
 (If songs are downloading, it will abort them - click again to close all the way).
 
+
 All songs are downloaded with the highest quality level available.
+
 Songs with HQ Resolutions will typically contain higher quality audio.
+
 All songs that are downloaded will be automatically downloaded in the highest quality audio format available.
