@@ -30,3 +30,5 @@ To Cancel all Downloads simply close the main form.
 (If songs are downloading, it will abort them - click again to close all the way).
 
 Songs with HQ Resolutions will typically contain higher quality audio.
+
+Tags: Raindrop youtube soundcloud downloader youtube downloader music downloader video downloader facebook downloader soundcloud downloader darktussin music download software download youtube videos download youtube songs spotify download music songs find songs online free download
