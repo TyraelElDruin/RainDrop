@@ -10,7 +10,7 @@ This version wraps Youtube-DL providing additional functionality.
 
 To Use: 
 
-1. Select a "Bucket" (Folder) to save the "RainDrops" (Audio Files) to.
+1. Select a "Bucket" (Folder) to save the "RainDrops" (Audio/Video Files) to.
 2. Enter Content in the top Textbox:
    
    a. Enter a Youtube/Soundcloud Link (contains /watch?v=)
